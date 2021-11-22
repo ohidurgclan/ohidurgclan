@@ -33,5 +33,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ohidurgclan&show_icons=true&theme=radical" alt="ohidurgclan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ohidurgclan&show_icons=true&locale=en" alt="ohidurgclan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohidurgclan&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /></p>
 
